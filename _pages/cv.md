@@ -11,26 +11,29 @@ redirect_from:
 
 Education
 ======
-* Master of Philosophy (Statistics), University of Western Australia, 2019 (expected)
-* Bachelor of Computer and Mathematical Sciences (Honours in Mathematical Statistics), University of Western Australia, 2016
-* Bachelor of Commerce,  University of Western Australia, 2014
+* Master of Philosophy (Statistics)
+  * University of Western Australia, 2019 (expected)
+* Bachelor of Computer and Mathematical Sciences with Honours in Mathematical Statistics
+  * University of Western Australia, 2016
+* Bachelor of Commerce
+  * University of Western Australia, 2014
 
 Work experience
 ======
-* Research Assistant in Research Methods and Social Statistics at Institute of Social Science Research, University of Queensland (Full-time, Dec 2015 - Dec 2016).
+* Research Assistant in Research Methods and Social Statistics at the *Institute of Social Science Research*, University of Queensland (Full-time, Dec 2015 - Dec 2016).
   * Dual-frame telephone survey research
   * Election polling research on undecided voters
   * Model selection and averaging for categorical data on Australian households
   * Statistical consulting for several major industry partners
 
-* Statistical Support Officer at Data Analysis Australia, Nedlands, Western Australia (Part-time, Dec 2013 - Oct 2015). 
+* Statistical Support Officer at *Data Analysis Australia*, Nedlands, Western Australia (Part-time, Dec 2013 - Oct 2015). 
   * Model fitting, development, evaluation, and exploratory data analysis
   * Algorithms for spatial data
   * Statistical and programming quality assurance
   * Data retrieval, cleaning, and analysis
   * Creating client-ready plots diagrams in R
 
-* Research Assistant in Economics at the University of Western Australia (Part-time, Aug 2014 - Oct 2015).
+* Research Assistant in Economics at the *University of Western Australia* (Part-time, Aug 2014 - Oct 2015).
   * Researching robust modelling of structural economic parameters to infer the effect of monetary policy on the US economy with Dr. Leandro Magnusson
   * Parallel Matlab programming combined with use of R and Stata
   * Reviewing econometric literature
