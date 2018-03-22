@@ -1,8 +1,8 @@
 ---
-title: "Monotone polynomials in constrained mixed effects models"
+title: "Monotone polynomials in constrained mixed effects models (SSA WA)"
 collection: talks
 type: "Talk"
-permalink: /talks/2017-05-09-mono-mixed
+permalink: /talks/2017-05-09-ssa-honours
 venue: "Statistical Society of Australia (WA Branch) Young Statistician Meeting, University of Western Australia"
 date: 2017-05-09
 location: "Perth, Western Australia"
