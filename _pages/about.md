@@ -12,6 +12,7 @@ I'm a research statistician currently studying at the University of Western Aust
 
 My main areas of interest are:
 - Bayesian methods and computation
+- multilevel / hierarchical models
 - regularisation
 - constrained non-linear regression
 - election polling
