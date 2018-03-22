@@ -2,7 +2,6 @@
 title: 'Does Donald Trump "defy all odds"?'
 collection: publications
 permalink: /publications/2016-does-trump-defy-all-odds
-excerpt: #'Does Donald Trump "defy all odds"?'
 date: 2016-10-19
 venue: 'Significance'
 paperurl: 'https://www.statslife.org.uk/politics/3050-does-donald-trump-defy-all-odds'
