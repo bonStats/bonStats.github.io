@@ -5,7 +5,7 @@ permalink: /publication/2018-mixed-effects-constrained-polynomials
 excerpt: 'Fitting monotone polynomials in mixed effect models'
 date: 2018-06-01
 venue: 'Statistics and Computing'
-paperurl: 'http://bonStats.github.io/files/mono_mixed_poly_author_version.pdf'
+paperurl: '[pdf](http://bonStats.github.io/files/mono_mixed_poly_author_version.pdf)'
 citation: 'Bon, J.J., Murray, K. & Turlach, B.A. Statistics and Computing (2018). https://doi.org/10.1007/s11222-017-9797-8'
 ---
 
