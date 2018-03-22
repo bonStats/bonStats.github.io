@@ -29,7 +29,7 @@ Current projects
 
 Under review
 =====
-* "Polling bias and undecided voter allocations: US Presidential elections, 2004 - 2016". [https://arxiv.org/abs/1703.09430](https://arxiv.org/abs/1703.09430) JJ Bon, T Ballard and B Baffour.
+* "Polling bias and undecided voter allocations: US Presidential elections, 2004 - 2016". [https://arxiv.org/abs/1703.09430](https://arxiv.org/abs/1703.09430). JJ Bon, T Ballard and B Baffour.
 
 Journal articles
 =====
