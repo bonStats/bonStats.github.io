@@ -3,7 +3,7 @@ title: "R Short course: Analyzing longitudinal data with R"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2016-ncld-r-workshop
-venue: "Wizard Corporate Training Centre, Longitudinal Data Conference 2016"
+venue: "Wizard Corporate Training Centre, Longitudinal Data Conference"
 date: 2016-10-24
 location: "Canberra, ACT, Australia"
 ---
