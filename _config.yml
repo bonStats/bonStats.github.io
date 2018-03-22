@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bon Stats"
+title                    : "bon stats"
 title_separator          : "-"
 name                     : &name "Joshua Bon"
-description              : &description "Research in statistics at University of Western Australia"
+description              : &description "Research in statistics"
 url                      : https://bonStats.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bonStats/bonStats.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Joshua Bon"
   avatar           : "profile.png"
-  bio              : "Master of Philosophy student in statistics at University of Western Australia"
+  bio              : "Statistics, R, Stan, Bayesian, Optimisation"
   location         : "Western Australia"
   employer         :
   googlescholar    : "https://scholar.google.com.au/citations?user=M4N18PMAAAAJ"
