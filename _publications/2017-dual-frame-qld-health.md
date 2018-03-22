@@ -2,7 +2,7 @@
 title: "Including mobile-only telephone users in a statewide preventive health survey: Differences in the prevalence of health risk factors and impact on trends"
 collection: publications
 permalink: /publications/2017-dual-frame-qld-health
-excerpt: 'Dual-frame survey research on the Queensland preventive health survey'
+excerpt: 'Keywords: Health prevalence estimates, Non-coverage bias, Dual-frame survey, Public health surveillance, Telephone surveys'
 date: 2017-09-01
 venue: 'Preventive Medicine Reports'
 paperurl: 'https://doi.org/10.1016/j.pmedr.2017.05.009'
