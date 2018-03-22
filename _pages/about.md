@@ -27,6 +27,10 @@ Current projects
 * "Bayesian computational methods for cognitive psychological models" with T Ballard
 * "Semi-infinite programming in R"
 
+Under review
+=====
+* "Polling bias and undecided voter allocations: US Presidential elections, 2004 - 2016". [https://arxiv.org/abs/1703.09430](https://arxiv.org/abs/1703.09430)
+
 Journal articles
 =====
 * "Fitting monotone polynomials in mixed effects models" (2018, forthcoming). Statistics and Computing. [https://doi.org/10.1007/s11222-017-9797-8](https://doi.org/10.1007/s11222-017-9797-8). JJ Bon, BA Turlach and K Murray.
