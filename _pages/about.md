@@ -26,9 +26,6 @@ Current projects
 * "Analysing overlapping contingency tables from sensitive data" with B Baffour, M Spallek, and M Haynes
 * "Bayesian computational methods for cognitive psychological models" with T Ballard
 * "Semi-infinite programming in R"
-
-Under review
-=====
 * "Polling bias and undecided voter allocations: US Presidential elections, 2004 - 2016". [https://arxiv.org/abs/1703.09430](https://arxiv.org/abs/1703.09430). JJ Bon, T Ballard and B Baffour.
 
 Journal articles
