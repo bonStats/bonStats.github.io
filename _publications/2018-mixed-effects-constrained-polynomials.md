@@ -17,7 +17,7 @@ an expectation–maximisation algorithm to fit monotone polynomials with mixed e
 resulting mixed effects models have constrained mean curves and have the flexibility to
 include either unconstrained or constrained subject-specific curves. This new methodology
 is demonstrated on real-world repeated measures data with an application from sleep
-science. Code to fit the methods described in this paper is available online in R package: [gcreg](https://github.com/bonStats/gcreg).
+science. Code to fit the methods described in this paper is available online in the R package: [gcreg](https://github.com/bonStats/gcreg).
 
 * DOI: 10.1007/s11222-017-9797-8
 * [Online link](https://doi.org/10.1007/s11222-017-9797-8)
