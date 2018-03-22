@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "bon stats"
+title                    : "Joshua Bon"
 title_separator          : "-"
 name                     : &name "Joshua Bon"
 description              : &description "Research in statistics"
