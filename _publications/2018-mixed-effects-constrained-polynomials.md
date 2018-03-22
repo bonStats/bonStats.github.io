@@ -2,7 +2,7 @@
 title: "Fitting monotone polynomials in mixed effects models"
 collection: publications
 permalink: /publication/2018-mixed-effects-constrained-polynomials
-excerpt: 'Fitting monotone polynomials in mixed effect models'
+excerpt: 'Keywords: Monotone polynomials, Monotone regression, Mixed effects, Random effects, Shape constraints'
 date: 2018-06-01
 venue: 'Statistics and Computing'
 paperurl: 'https://doi.org/10.1007/s11222-017-9797-8'
