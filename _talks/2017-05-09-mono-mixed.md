@@ -3,7 +3,7 @@ title: "Monotone polynomials in constrained mixed effects models"
 collection: talks
 type: "Talk"
 permalink: /talks/2017-05-09-mono-mixed
-venue: "University of Western Australia"
+venue: "Statistical Society of Australia (WA Branch) Young Statistician Meeting, University of Western Australia"
 date: 2017-05-09
 location: "Perth, Western Australia"
 ---
