@@ -41,16 +41,17 @@ Work experience
   * Writing, editing and proof reading of economic papers
   * Data collection, processing and manipulation
   * Compilation and production of the Economics Discipline Annual Report
-  
-#Skills
-#======
-#* Skill 1
-#* Skill 2
-#  * Sub-skill 2.1
-#  * Sub-skill 2.2
-#  * Sub-skill 2.3
-#* Skill 3
 
+<!---
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+--->
 Publications
 ======
   <ul>{% for post in site.publications %}
