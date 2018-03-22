@@ -2,7 +2,7 @@
 title: "Bayesian Regression with Functional Inequality Constraints"
 collection: talks
 type: "Talk"
-permalink: /talks/2017-11-30-functional-constraints
+permalink: /talks/2017-11-30-bio-border
 venue: "Biometrics by the Border, Mantra on Salt Beach"
 date: 2017-11-30
 location: "Kingscliff, Queensland, Australia"
