@@ -27,10 +27,10 @@ Current projects
 * "Analysing overlapping contingency tables from sensitive data" with B Baffour, M Spallek, and M Haynes
 * "Bayesian computational methods for cognitive psychological models" with T Ballard
 * "Semi-infinite programming in R"
-* "Polling bias and undecided voter allocations: US Presidential elections, 2004 - 2016". [https://arxiv.org/abs/1703.09430](https://arxiv.org/abs/1703.09430). JJ Bon, T Ballard and B Baffour.
 
 Journal articles
 =====
+* "Polling bias and undecided voter allocations: US Presidential elections, 2004 - 2016" (2018, forthcoming). Journal of the Royal Statistical Society (Series A). [https://dx.doi.org/10.1111/rssa.12414](https://dx.doi.org/10.1111/rssa.12414). JJ Bon, T Ballard and B Baffour.
 * "Fitting monotone polynomials in mixed effects models" (2018, forthcoming). Statistics and Computing. [https://doi.org/10.1007/s11222-017-9797-8](https://doi.org/10.1007/s11222-017-9797-8). JJ Bon, BA Turlach and K Murray.
 *  "Including mobile-only telephone users in a statewide preventive health survey: Differences in the prevalence of health risk factors and impact on trends" Preventive Medicine Reports (2017) Volume 7, September 2017, Pages 91-98. [https://doi.org/10.1016/j.pmedr.2017.05.009](https://doi.org/10.1016/j.pmedr.2017.05.009). B Baffour, T Roselli, M Haynes, JJ Bon, M Western, S Clemens.
 
