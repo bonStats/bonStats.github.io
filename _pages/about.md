@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research statistician currently studying at the University of Western Australia. My thesis is entitled "Bayesian regularisation from stochastic constraints". I like to research applied, computational, and theoretical problems in statistics. 
+I'm a research statistician currently studying at the University of Western Australia. My thesis is entitled "Bayesian regularisation from stochastic constraints". In April 2019 I will begin my PhD at the Queensland University of Technology.
 
 My main areas of interest are:
 - Bayesian methods and computation
