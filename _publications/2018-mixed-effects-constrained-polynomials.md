@@ -6,7 +6,7 @@ excerpt: 'Keywords: Monotone polynomials, Monotone regression, Mixed effects, Ra
 date: 2018-06-01
 venue: 'Statistics and Computing'
 paperurl: 'https://doi.org/10.1007/s11222-017-9797-8'
-citation: 'Bon, J.J., Murray, K. & Turlach, B.A. Statistics and Computing (2019).'
+citation: 'Bon, J.J., Murray, K. & Turlach, B.A. (2019). Statistics and Computing, Volume 29, Issue 1, Pages 79-98.'
 ---
 
 We provide a method for fitting monotone polynomials to data with both fixed and
