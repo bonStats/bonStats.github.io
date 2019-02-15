@@ -30,8 +30,8 @@ Current projects
 
 Journal articles
 =====
-* "Polling bias and undecided voter allocations: US Presidential elections, 2004 - 2016" (2018, forthcoming). Journal of the Royal Statistical Society (Series A). [https://dx.doi.org/10.1111/rssa.12414](https://dx.doi.org/10.1111/rssa.12414). JJ Bon, T Ballard and B Baffour.
-* "Fitting monotone polynomials in mixed effects models" (2018, forthcoming). Statistics and Computing. [https://doi.org/10.1007/s11222-017-9797-8](https://doi.org/10.1007/s11222-017-9797-8). JJ Bon, BA Turlach and K Murray.
+* "Polling bias and undecided voter allocations: US Presidential elections, 2004 - 2016" (2019). Journal of the Royal Statistical Society (Series A), Volume 182, Issue 2, Pages 467-493. [https://dx.doi.org/10.1111/rssa.12414](https://dx.doi.org/10.1111/rssa.12414). JJ Bon, T Ballard and B Baffour.
+* "Fitting monotone polynomials in mixed effects models" (2019). Statistics and Computing, Volume 29, Issue 1, Pages 79-98. [https://doi.org/10.1007/s11222-017-9797-8](https://doi.org/10.1007/s11222-017-9797-8). JJ Bon, BA Turlach and K Murray.
 *  "Including mobile-only telephone users in a statewide preventive health survey: Differences in the prevalence of health risk factors and impact on trends" Preventive Medicine Reports (2017) Volume 7, September 2017, Pages 91-98. [https://doi.org/10.1016/j.pmedr.2017.05.009](https://doi.org/10.1016/j.pmedr.2017.05.009). B Baffour, T Roselli, M Haynes, JJ Bon, M Western, S Clemens.
 
 See [Publications](https://bonstats.github.io/publications/) for more details.
