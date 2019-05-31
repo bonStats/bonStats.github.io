@@ -8,16 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research statistician currently studying at the University of Western Australia. My thesis is entitled "Bayesian regularisation from stochastic constraints". In April 2019 I will begin my PhD at the Queensland University of Technology.
+I'm a research statistician currently studying at Queensland University of Technology. My PhD focusses on sequential Monte Carlo (SMC) methods.
 
 My main areas of interest are:
-- Bayesian methods and computation
-- multilevel / hierarchical models
-- regularisation
+- Bayesian computation
+- Bayesian methods
+- multilevel / hierarchical models and regularisation
 - constrained non-linear regression
 - election polling
-- survey methods
-- log-linear models
 - semi-infinite programming
 
 Current projects
