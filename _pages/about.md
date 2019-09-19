@@ -20,8 +20,8 @@ My main areas of interest are:
 
 Current projects
 =====
-* "Bayesian regularisation from stochastic constraints" with BA Turlach, K Murray, and C Drovandi
-* "Sequential Monte Carlo for regularisation" with BA Turlach, K Murray, and C Drovandi
+* “Delayed-acceptance SMC” with C Drovandi and A Lee
+* "Bayesian regularisation from stochastic constraints"
 * "Analysing overlapping contingency tables from sensitive data" with B Baffour, M Spallek, and M Haynes
 * "Bayesian computational methods for cognitive psychological models" with T Ballard
 * "Semi-infinite programming in R"
