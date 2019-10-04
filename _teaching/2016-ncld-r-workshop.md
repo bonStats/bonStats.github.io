@@ -16,4 +16,4 @@ During the training the instructor will show the functionalities of R and severa
 
 R is a free and readily available software. The training will be held in a computer lab and you will have access to a computer. However, participants may bring their own laptops if they install R prior to the training. This short course assumes no prior knowledge of R but knowledge of statistics, at least at an intermediate level is required.
 
-The training will be presented by Dr Danilo Bolano and Joshua Bon.
+The training was presented by Dr Danilo Bolano and Joshua Bon.
