@@ -1,0 +1,13 @@
+---
+title: "Scaling samplers for high-dimensional models with stochastic nets"
+collection: talks
+type: "Talk"
+permalink: /talks/2019-07-20-jsm
+venue: "University of Technology Sydney"
+date: 2019-07-10
+location: "Sydney, NSW, Australia"
+---
+Talk at the The 12th International Conference on Monte Carlo Methods and Applications.
+
+
+* [Link to slides](https://bonstats.github.io/mcm2019/sc-sampler.html)
