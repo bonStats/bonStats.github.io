@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
+* Doctorate of Philosophy (Statistics)
+  * Queensland University of Technology, 2022 (expected)
 * Master of Philosophy (Statistics)
-  * University of Western Australia, 2019 (expected)
+  * University of Western Australia, 2019 (Awarded: (Board of the Graduate Research School Dean's List)[http://www.postgraduate.uwa.edu.au/students/funding/prizes/board-of-the-graduate-research-school-deans-list])
 * Bachelor of Computer and Mathematical Sciences with Honours in Mathematical Statistics
   * University of Western Australia, 2016
 * Bachelor of Commerce
