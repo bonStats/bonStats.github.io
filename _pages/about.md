@@ -23,7 +23,7 @@ My main areas of interest are:
 Current projects
 =====
 * “Delayed-acceptance SMC” with C Drovandi and A Lee
-* "Bayesian addative regression trees for causal treatment effect models" (and [R package](https://github.com/bonStats/tidytreatment)) with S Kalucza and M O'Flaherty
+* "Applying BART for causal treatment effect models in social science" (and [R package](https://github.com/bonStats/tidytreatment)) with S Kalucza and M O'Flaherty
 * "Bayesian regularisation from stochastic constraints"
 * "Analysing overlapping contingency tables from sensitive data" with B Baffour, M Spallek, and M Haynes
 * "Bayesian computational methods for cognitive psychological models" with T Ballard
