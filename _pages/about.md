@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research statistician currently studying at Queensland University of Technology. My PhD focusses on sequential Monte Carlo (SMC) methods.
+I'm a research statistician currently studying at Queensland University of Technology. 
+
+My PhD focusses on sequential Monte Carlo (SMC) methods.
 
 My main areas of interest are:
 - Bayesian computation
