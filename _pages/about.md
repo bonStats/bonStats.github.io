@@ -22,11 +22,14 @@ My main areas of interest are:
 
 Current projects
 =====
-* “Delayed-acceptance SMC” with C Drovandi and A Lee
 * "Applying BART for causal treatment effect models in social science" (and [R package](https://github.com/bonStats/tidytreatment)) with S Kalucza and M O'Flaherty
 * "Bayesian regularisation from stochastic constraints"
 * "Bayesian computational methods for cognitive psychological models" with T Ballard
 * "Semi-infinite programming in R"
+
+Preprints
+=====
+* "Accelerating sequential Monte Carlo with surrogate likelihoods" [arXiv:2009.03699](https://arxiv.org/abs/2009.03699)
 
 Journal articles
 =====
