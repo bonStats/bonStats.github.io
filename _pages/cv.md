@@ -83,7 +83,7 @@ Teaching
 Service and leadership
 ======
 * Sunny Street, Queensland
-  * Sunny Street is a doctor and nursing mobile outreach unit providing primary healthcare and complex coordination services for homeless and vulnerable individuals and families. I provide pro bono data visualisation and and volunteer as support staff at their clinics. [http://sunnystreet.org](http://sunnystreet.org)
+  * Sunny Street is a doctor and nursing mobile outreach unit providing primary healthcare and complex coordination services for homeless and vulnerable individuals and families. I provide pro bono data visualisation and volunteer as support staff at their clinics. [http://sunnystreet.org](http://sunnystreet.org)
 
 * Student ambassador for SSA at userR! conference, Brisbane 2018
   * The useR! conference is the annual international conference for the R programming language
