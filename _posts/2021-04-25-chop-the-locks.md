@@ -20,8 +20,8 @@ Donate here: <https://chuffed.org/project/support-for-the-kp120> and send me a s
 
 It's great that 50 of the KP120 have finally been released, but with no Government support they face a precarious situation now. It's up to us, their community, to act.
 
-* If we manage to raise \$500, I pledge to donate \$500 of my own cash to match.
-* If we manage to raise \$1000, I'll donate a total of \$1000 of my own cash to match.
+* If we manage to raise (\$500), I pledge to donate (\$500) of my own cash to match.
+* If we manage to raise (\$1000), I'll donate a total of (\$1000) of my own cash to match.
 
 
 The KP120
@@ -40,4 +40,4 @@ My locks are currently this long. The hair will be donated to make wigs for thos
 The locks will be cutoff when we reach our target!
 
 
-I acknowledge that I live on the stolen land of the Yuggera, Jagera and Turrbal peoples, and their sovereignty over those lands has never been ceded. The injustices we see in Australia are intrinsically linked. We will never truly address one injustice without addressing the others.
+**I acknowledge that I live on the stolen land of the Yuggera, Jagera and Turrbal peoples, and their sovereignty over those lands has never been ceded.** The injustices we see in Australia are intrinsically linked. We will never truly address one injustice without addressing the others.
