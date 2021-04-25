@@ -8,7 +8,7 @@ tags:
   - Fundraising
 ---
 
-Hey All, this year for my birthday I'm chopping off my hair to raise money for the 50 men recently released into the community after 8 long years of detention. 
+This year for my birthday I'm chopping off my hair to raise money for the 50 men recently released into the community after 8 long years of detention. 
 
 **\\$20 of \\$1000 raised** (updated 25-04-21)
 
