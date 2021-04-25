@@ -8,9 +8,9 @@ tags:
   - Fundraising
 ---
 
-Hey All, this year for my birthday I'm chopping off my hair to raise money for the 50 men recently released into the community after 8 long years of detention. Those who know me well will tell you how much I enjoy my long hair and how much it is part of my identity. This time around I've been growing it for 2.5 years! During that time my long hair and I have enjoyed activities together such as long walks on the beach, head banging at concerts (and in the bathroom), and cycling really fast to stretch it out behind me like a majestic mane.
+Hey All, this year for my birthday I'm chopping off my hair to raise money for the 50 men recently released into the community after 8 long years of detention. 
 
-These men fled violence and persecution in their home countries, only to be detained and persecuted by our Government - for the basic human right of seeking asylum. 
+Those who know me well will tell you how much I enjoy my long hair and how much it is part of my identity. This time around I've been growing it for 2.5 years! During that time my long hair and I have enjoyed activities together such as long walks on the beach, head banging at concerts (and in the bathroom), and cycling really fast to stretch it out behind me like a majestic mane.
 
 Please donate directly to the main fundraiser: <https://chuffed.org/project/support-for-the-kp120> (so I can't get my grubby hands on the money and buy myself a wig when I regret this... but mainly for tax purposes). Then send me a screenshot (links in side bar) so I can keep track of the donations related to the hair chopping. Any amount of support will be welcomed!
 
@@ -19,6 +19,8 @@ Please donate directly to the main fundraiser: <https://chuffed.org/project/supp
 
 50 released from Kangaroo Point Prison
 ------
+
+The men we're supporting fled violence and persecution in their home countries, only to be detained and persecuted by our Government - for the basic human right of seeking asylum.
 
 It's great that 50 of the KP120 have finally been released, but with no Government support they face a precarious situation now. It's up to us, their community, to act.
 
