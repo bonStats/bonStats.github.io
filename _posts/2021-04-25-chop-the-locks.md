@@ -28,9 +28,8 @@ The men we're supporting fled violence and persecution in their home countries, 
 
 It's great that 50 of the KP120 have finally been released, but with no Government support they face a precarious situation now. It's up to us, their community, to act.
 
-* If we manage to raise \\$500, I pledge to donate \\$500 of my own cash to match.
-* If we manage to raise \\$1000, I pledge to donate \\$1000 of my own cash to match (in total).
-
+* If we manage to raise \\$500, I'll match donations from my mates with \\$500 of my own cash.
+* If we manage to raise \\$1000, I'll match donations from my mates with \\$1000 of my own cash (in total).
 
 The KP120
 ------
