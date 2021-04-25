@@ -18,7 +18,7 @@ Those who know me well will tell you how much I enjoy my long hair and how much 
 * head banging at concerts (and in the bathroom), and 
 * extending out behind me like a majestic mane as I cycle through Brisbane.
 
-Please donate directly to the main fundraiser: <https://chuffed.org/project/support-for-the-kp120> (so I can't get my grubby hands on the money and buy myself a wig when I regret this... but mainly for tax purposes). Then send me a screenshot (links in side bar) so I can keep track of the donations related to the hair chopping. Any amount of support will be welcomed!
+Please donate directly to the main fundraiser: <https://chuffed.org/project/support-for-the-kp120> (so I can't get my grubby hands on the money and buy myself a wig when I regret this... but mainly for tax purposes). Then send me a screenshot (joshuajbon at gmail) so I can keep track of the donations related to the hair chopping. Any amount of support will be welcomed!
 
 
 50 released from Kangaroo Point Prison
