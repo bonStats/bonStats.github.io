@@ -12,7 +12,7 @@ Hey All, this year for my birthday I'm chopping off my hair to raise money for t
 
 Donate directly to the fundraiser: <https://chuffed.org/project/support-for-the-kp120> and send me a screenshot so I can keep track of the donations related to the hair chopping.
 
-**\\$0 of \\$1000 raised** Updated 25-04-21
+**\\$0 of \\$1000 raised** (updated 25-04-21)
 
 
 50 released from Kangaroo Point Prison
