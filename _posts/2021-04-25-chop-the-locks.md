@@ -13,15 +13,18 @@ Chop the locks
 
 Hey All, this year for my birthday I'm chopping off my hair to raise money for the 50 men recently released into the community after 8 long years of detention. They fled violence and persecution in their home countries, only to be detained and persecuted by our Government - for the basic human right of seeking asylum.
 
-Donate directly to the fundraiser: <https://chuffed.org/project/support-for-the-kp120> and send me a screenshot so I can keep track of the donations.
+Donate directly to the fundraiser: <https://chuffed.org/project/support-for-the-kp120> and send me a screenshot so I can keep track of the donations related to the hair chopping.
+
+**\\$0 of \\$1000 raised** Updated 25-04-21
+
 
 50 released from Kangaroo Point Prison
 ------
 
 It's great that 50 of the KP120 have finally been released, but with no Government support they face a precarious situation now. It's up to us, their community, to act.
 
-* If we manage to raise \\$500, I pledge to donate \\$$500 of my own cash to match.
-* If we manage to raise \\$1000), I'll donate a total of \\$1000 of my own cash to match.
+* If we manage to raise \\$500, I pledge to donate \\$500 of my own cash to match.
+* If we manage to raise \\$1000, I'll donate a total of \\$1000 of my own cash to match.
 
 
 The KP120
