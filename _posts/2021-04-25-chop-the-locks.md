@@ -8,9 +8,11 @@ tags:
   - Fundraising
 ---
 
-Hey All, this year for my birthday I'm chopping off my hair to raise money for the 50 men recently released into the community after 8 long years of detention. They fled violence and persecution in their home countries, only to be detained and persecuted by our Government - for the basic human right of seeking asylum.
+Hey All, this year for my birthday I'm chopping off my hair to raise money for the 50 men recently released into the community after 8 long years of detention. Those who know me well will tell you how much I enjoy my long hair and how much it is part of my identity. This time around I've been growing it for 2.5 years! During that time my long hair and I have enjoyed activities together such as long walks on the beach, head banging at concerts (and in the bathroom), and cycling really fast to stretch it out behind me like a majestic mane.
 
-Please donate directly to the fundraiser: <https://chuffed.org/project/support-for-the-kp120> and send me a screenshot so I can keep track of the donations related to the hair chopping. Any amoount of support will be welcomed!
+These men fled violence and persecution in their home countries, only to be detained and persecuted by our Government - for the basic human right of seeking asylum. 
+
+Please donate directly to the main fundraiser: <https://chuffed.org/project/support-for-the-kp120> (so I can't get my grubby hands on the money and buy myself a wig when I regret this... but mainly for tax purposes). Then send me a screenshot (links in side bar) so I can keep track of the donations related to the hair chopping. Any amount of support will be welcomed!
 
 **\\$0 of \\$1000 raised** (updated 25-04-21)
 
