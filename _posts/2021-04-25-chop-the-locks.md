@@ -1,6 +1,6 @@
 ---
 title: 'Chop the locks'
-date: 2012-08-14
+date: 2021-04-25
 permalink: /posts/2021/04/chopthelocks/
 tags:
   - KP120
