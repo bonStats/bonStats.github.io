@@ -10,7 +10,7 @@ tags:
 
 This year for my birthday I'm chopping off my hair to raise money for the 50 men recently released into the community after 8 long years of detention. 
 
-**\\$495 of \\$1000 raised** (updated 29-04-21)
+**\\$615 of \\$1000 raised** (updated 02-05-21)
 
 Those who know me well will tell you how much I enjoy my long hair and how much it is part of my identity. This time around I've been growing it for 2.5 years! During that time my long hair and I have enjoyed activities together such as 
 
@@ -28,7 +28,7 @@ The men we're supporting fled violence and persecution in their home countries, 
 
 It's great that 50 of the KP120 have finally been released, but with no Government support they face a precarious situation now. It's up to us, their community, to act.
 
-* If we manage to raise \\$500, I'll match donations from my mates with \\$500 of my own cash.
+* ~~If we manage to raise \\$500, I'll match donations from my mates with \\$500 of my own cash.~~
 * If we manage to raise \\$1000, I'll match donations from my mates with \\$1000 of my own cash (in total).
 
 The KP120
