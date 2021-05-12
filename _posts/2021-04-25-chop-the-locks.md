@@ -10,7 +10,7 @@ tags:
 
 This year for my birthday I'm chopping off my hair to raise money for the 50 men recently released into the community after 8 long years of detention. 
 
-**\\$1135 of \\$1000 raised** (updated 12-05-21)
+**\\$1165 of \\$1000 raised** (updated 13-05-21)
 
 Those who know me well will tell you how much I enjoy my long hair and how much it is part of my identity. This time around I've been growing it for 2.5 years! During that time my long hair and I have enjoyed activities together such as 
 
