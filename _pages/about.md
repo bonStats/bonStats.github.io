@@ -8,20 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research statistician currently studying at Queensland University of Technology. My PhD focusses on sequential Monte Carlo (SMC) methods.
+I'm a Research Fellow in sequential Monte Carlo Methods at Queensland University of Technology.
 
 My main areas of interest are:
-- Bayesian computation
-- Bayesian methods
-- multilevel / hierarchical models and regularisation
-- constrained non-linear regression
+- Bayesian computation and models
+- hierarchical models
+- regularisation
+- constrained models
 
 Current projects
 =====
+* Twisted models for efficient particle filters
+* Particle filters for binary state spaces
 * "Applying BART for causal treatment effect models in social science" (and [R package](https://github.com/bonStats/tidytreatment)) with S Kalucza and M O'Flaherty
 * "Bayesian regularisation from stochastic constraints"
-* "Bayesian computational methods for cognitive psychological models" with T Ballard
-* "Semi-infinite programming in R"
 
 Selected Journal articles
 =====
