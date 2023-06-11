@@ -8,20 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Research Fellow in sequential Monte Carlo methods at Queensland University of Technology.
+Postdoctral researcher at Paris-Dauphine with Christian Robert (from Sept '23).
+Previously, Research Fellow in sequential Monte Carlo methods at QUT.
 
-My main areas of interest are:
-- Bayesian computation
-- hierarchical models
-- regularisation
-- constrained models
+I am interested in the theory and practice of Bayesian computation to address problems in the applied sciences.
 
 Current projects
 =====
 * Monte Carlo twisted particle filters [arXiv](https://arxiv.org/abs/2208.04288)
-* Calibrating surrogates models for intractable Bayesian posteriors 
+* Calibrating surrogates models for intractable Bayesian posteriors [arXiv](https://arxiv.org/abs/2211.05357)
 * Particle filters for binary state spaces
-* BART for causal treatment effect models in social science (and [R package](https://github.com/bonStats/tidytreatment)) with S Kalucza and M O'Flaherty
+* Tidy software for BART causal treatment effect models [R package](https://github.com/bonStats/tidytreatment)
 
 Selected Journal articles
 =====
