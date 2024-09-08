@@ -12,9 +12,7 @@ My core research is in computational statistics. I develop and analyse algorithm
 
 Since September 2023, I am a postdoctoral researcher supervised by Professor Christian Robert at Université Paris-Dauphine, Paris Sciences & Lettres. I am working on principled Bayesian inference algorithms with __data privacy__ guarantees. In pursuit of this goal we are developing a __framework for defining privacy__ guarantees for use in scientific, industrial and other contexts with differing privacy requirements.
 
-In Paris I co-organise the [Mostly Monte Carlo Seminar Series](https://bonstats.github.io/mostlymontecarlo/).
-
-In 2023 I was chair of the committe organising [SMC Down Under](https://research.qut.edu.au/qutcds/events/smc-down-under-23/).
+In Paris I co-organise the [Mostly Monte Carlo Seminar Series](https://bonstats.github.io/mostlymontecarlo/). In 2023 I was chair of the committe organising [SMC Down Under](https://research.qut.edu.au/qutcds/events/smc-down-under-23/).
 
 Current projects
 =====
