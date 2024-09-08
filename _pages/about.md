@@ -14,6 +14,8 @@ Since September 2023, I am a postdoctoral researcher supervised by Professor Chr
 
 In Paris I co-organise the [Mostly Monte Carlo Seminar Series](https://bonstats.github.io/mostlymontecarlo/).
 
+In 2023 I was chair of the committe organising [SMC Down Under](https://research.qut.edu.au/qutcds/events/smc-down-under-23/).
+
 Current projects
 =====
 * A Bayesian decision-theoretic framework for statistical data privacy
