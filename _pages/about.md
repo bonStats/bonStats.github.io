@@ -8,19 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-My core research is in computational statistics and data privacy. I develop and analyse algorithms for __Bayesian inference__, including sequential __Monte Carlo__ and Markov chain Monte Carlo. I work with applied scientists to develop principled and robust data analysis for their data. Often this involves designing Bayesian models to incorporate domain and expert knowledge. I also design __open source__ software for statisticians, scientists and industry.
+I am a lecturer at Adelaide University. Previously I worked at Université Paris Dauphine--PSL, and before that at the Queensland University of Technology.
 
-I am a lecturer at Adelaide University, previously working with Professor Christian Robert at Université Paris-Dauphine. 
+My research involves designing computationally __efficient__ (and __private__) algorithms that learn from data with principled uncertainty quantification.
+I develop and analyse algorithms for __Bayesian inference__, including sequential __Monte Carlo__ and Markov chain Monte Carlo. 
+I work with applied scientists to develop principled and robust data analysis for their data. Often this involves designing Bayesian models to incorporate domain and expert knowledge. 
+I also design __open source__ software for statisticians, scientists and industry.
 
-In Paris I organised the [Mostly Monte Carlo Seminar Series](https://bonstats.github.io/mostlymontecarlo/). In 2023 I was chair of the committe organising [SMC Down Under](https://research.qut.edu.au/qutcds/events/smc-down-under-23/).
+In Paris, I organised the [Mostly Monte Carlo Seminar Series](https://bonstats.github.io/mostlymontecarlo/). In 2023 I was chair of the committee organising [SMC Down Under](https://research.qut.edu.au/qutcds/events/smc-down-under-23/).
 
-Current projects
+A selection of current projects
 =====
 * A Bayesian decision-theoretic framework for statistical data privacy
 * Variance reduction in sequential Monte Carlo with Feynman--Kac knots
 * Calibrating surrogates models for intractable Bayesian posteriors [arXiv](https://arxiv.org/abs/2211.05357)
-* Particle filters for binary state spaces
-* Tidy software for BART causal treatment effect models [R package](https://github.com/bonStats/tidytreatment)
 
 Selected Journal articles
 =====
