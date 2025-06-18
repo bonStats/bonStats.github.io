@@ -23,7 +23,7 @@ Some current projects
 * Variance reduction in sequential Monte Carlo with Feynman--Kac knots
 * Calibrating surrogates models for intractable Bayesian posteriors [arXiv](https://arxiv.org/abs/2211.05357)
 
-Selected Journal articles
+Selected journal articles
 =====
 * "Accelerating sequential Monte Carlo with surrogate likelihoods" (2021) Statistics and Computing [https://doi.org/10.1007/s11222-021-10036-4](https://doi.org/10.1007/s11222-021-10036-4) with A Lee, and C Drovandi. 
 * "Analysing Sensitive Data from Dynamically-Generated Overlapping Contingency Tables" (2020). Journal of Official Statistics [https://doi.org/10.2478/jos-2020-0015](https://doi.org/10.2478/jos-2020-0015) with B Baffour, M Spallek and M Haynes.
