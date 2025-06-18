@@ -17,7 +17,7 @@ I also design __open source__ software for statisticians, scientists and industr
 
 In Paris, I organised the [Mostly Monte Carlo Seminar Series](https://bonstats.github.io/mostlymontecarlo/). In 2023 I was chair of the committee organising [SMC Down Under](https://research.qut.edu.au/qutcds/events/smc-down-under-23/).
 
-A selection of current projects
+Some current projects
 =====
 * A Bayesian decision-theoretic framework for statistical data privacy
 * Variance reduction in sequential Monte Carlo with Feynman--Kac knots
