@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a lecturer at Adelaide University. Previously I worked at Université Paris Dauphine--PSL, and before that at the Queensland University of Technology.
+I am a lecturer at __Adelaide University__. Previously I worked at Université Paris Dauphine--PSL, and before that at the Queensland University of Technology.
 
 My research involves designing computationally __efficient__ (and __private__) algorithms that learn from data with principled uncertainty quantification.
 I develop and analyse algorithms for __Bayesian inference__, including sequential __Monte Carlo__ and Markov chain Monte Carlo. 
-I work with applied scientists to develop principled and robust data analysis for their data. Often this involves designing Bayesian models to incorporate domain and expert knowledge. 
+I work with applied scientists to develop __principled and robust__ analysis procedures for their data. This involves designing Bayesian models to incorporate domain and expert knowledge, and developing bespoke algorithms.
 I also design __open source__ software for statisticians, scientists and industry.
 
 In Paris, I organised the [Mostly Monte Carlo Seminar Series](https://bonstats.github.io/mostlymontecarlo/). In 2023 I was chair of the committee organising [SMC Down Under](https://research.qut.edu.au/qutcds/events/smc-down-under-23/).
