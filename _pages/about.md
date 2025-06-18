@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-My core research is in computational statistics. I develop and analyse algorithms for __Bayesian inference__, including sequential __Monte Carlo__ and Markov chain Monte Carlo. I work with applied scientists to develop principled and robust data analysis for their data. Often this involves designing Bayesian models to incorporate domain and expert knowledge. I also design __open source__ software for statisticians, scientists and industry.
+My core research is in computational statistics and data privacy. I develop and analyse algorithms for __Bayesian inference__, including sequential __Monte Carlo__ and Markov chain Monte Carlo. I work with applied scientists to develop principled and robust data analysis for their data. Often this involves designing Bayesian models to incorporate domain and expert knowledge. I also design __open source__ software for statisticians, scientists and industry.
 
-Since September 2023, I am a postdoctoral researcher supervised by Professor Christian Robert at Université Paris-Dauphine, Paris Sciences & Lettres. I am working on principled Bayesian inference algorithms with __data privacy__ guarantees. In pursuit of this goal we are developing a __framework for defining privacy__ guarantees for use in scientific, industrial and other contexts with differing privacy requirements.
+Since June 2025, I am a lecturer
 
-In Paris I co-organise the [Mostly Monte Carlo Seminar Series](https://bonstats.github.io/mostlymontecarlo/). In 2023 I was chair of the committe organising [SMC Down Under](https://research.qut.edu.au/qutcds/events/smc-down-under-23/).
+Previously I was a researcher with Professor Christian Robert at Université Paris-Dauphine. 
+In Paris I organised the [Mostly Monte Carlo Seminar Series](https://bonstats.github.io/mostlymontecarlo/). In 2023 I was chair of the committe organising [SMC Down Under](https://research.qut.edu.au/qutcds/events/smc-down-under-23/).
 
 Current projects
 =====
 * A Bayesian decision-theoretic framework for statistical data privacy
-* Monte Carlo twisted particle filters [arXiv](https://arxiv.org/abs/2208.04288)
+* Variance reduction in sequential Monte Carlo with Feynman--Kac knots
 * Calibrating surrogates models for intractable Bayesian posteriors [arXiv](https://arxiv.org/abs/2211.05357)
 * Particle filters for binary state spaces
 * Tidy software for BART causal treatment effect models [R package](https://github.com/bonStats/tidytreatment)

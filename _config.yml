@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Joshua Bon"
   avatar           : "profile.jpg"
-  bio              : "Comp-stats, Bayes, Julia, R, Stan"
-  location         : "Brisbane, Queensland"
-  employer         : "QUT"
+  bio              : "Computational statistics"
+  location         : "Adelaide, South Australia"
+  employer         : "Adelaide University"
   googlescholar    : "https://scholar.google.com.au/citations?user=M4N18PMAAAAJ"
   email            : "joshuajbon@gmail.com"
   uri              :
