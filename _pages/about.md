@@ -10,9 +10,8 @@ redirect_from:
 
 My core research is in computational statistics and data privacy. I develop and analyse algorithms for __Bayesian inference__, including sequential __Monte Carlo__ and Markov chain Monte Carlo. I work with applied scientists to develop principled and robust data analysis for their data. Often this involves designing Bayesian models to incorporate domain and expert knowledge. I also design __open source__ software for statisticians, scientists and industry.
 
-Since June 2025, I am a lecturer
+I am a lecturer at Adelaide University, previously working with Professor Christian Robert at Université Paris-Dauphine. 
 
-Previously I was a researcher with Professor Christian Robert at Université Paris-Dauphine. 
 In Paris I organised the [Mostly Monte Carlo Seminar Series](https://bonstats.github.io/mostlymontecarlo/). In 2023 I was chair of the committe organising [SMC Down Under](https://research.qut.edu.au/qutcds/events/smc-down-under-23/).
 
 Current projects
