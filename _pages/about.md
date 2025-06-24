@@ -10,7 +10,7 @@ redirect_from:
 
 I am a lecturer at __Adelaide University__. Previously I worked at Université Paris Dauphine--PSL, and before that at the Queensland University of Technology in the Centre for Data Science and School of Mathematical Sciences.
 
-My research involves designing computationally __efficient__ (and __private__) algorithms that learn from data with principled uncertainty quantification.
+My research involves designing computationally __efficient__ (sometimes __private__) algorithms that learn from data with principled uncertainty quantification.
 
 I develop and analyse algorithms for __Bayesian inference__, including sequential __Monte Carlo__ and Markov chain Monte Carlo. 
 I work with applied scientists to develop __principled and robust__ analysis procedures for their data. This involves designing Bayesian models to incorporate domain and expert knowledge, and developing bespoke algorithms.
