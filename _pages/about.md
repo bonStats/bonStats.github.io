@@ -16,19 +16,21 @@ I develop and analyse algorithms for __Bayesian inference__, including sequentia
 I work with applied scientists to develop __principled and robust__ analysis procedures for their data. This involves designing Bayesian models to incorporate domain and expert knowledge, and developing bespoke algorithms.
 I also design __open source__ software for statisticians, scientists and industry.
 
-In Paris, I organised the [Mostly Monte Carlo Seminar Series](https://bonstats.github.io/mostlymontecarlo/). In 2023 I was chair of the committee organising [SMC Down Under](https://research.qut.edu.au/qutcds/events/smc-down-under-23/).
+I am organising the [Adelaide Data Privacy Workshop](https://bonstats.github.io/AdelaideDataPrivacyWorkshop/), to be held November 2025.
+In Paris, I organised the [Mostly Monte Carlo Seminar Series](https://bonstats.github.io/mostlymontecarlo/). In 2023, I was chair of the [SMC Down Under](https://research.qut.edu.au/qutcds/events/smc-down-under-23/) organising committee.
 
 Some current projects
 =====
 * A Bayesian decision-theoretic framework for statistical data privacy
-* Variance reduction in sequential Monte Carlo with Feynman--Kac knots
+* Knots and variance ordering of sequential Monte Carlo algorithms [arXiv](https://arxiv.org/abs/2510.01901)
 * Calibrating surrogates models for intractable Bayesian posteriors [arXiv](https://arxiv.org/abs/2211.05357)
+
+See my full list of [arXiv preprints](https://arxiv.org/a/bon_j_1.html) for more.
 
 Selected journal articles
 =====
-* "Accelerating sequential Monte Carlo with surrogate likelihoods" (2021) Statistics and Computing [https://doi.org/10.1007/s11222-021-10036-4](https://doi.org/10.1007/s11222-021-10036-4) with A Lee, and C Drovandi. 
-* "Analysing Sensitive Data from Dynamically-Generated Overlapping Contingency Tables" (2020). Journal of Official Statistics [https://doi.org/10.2478/jos-2020-0015](https://doi.org/10.2478/jos-2020-0015) with B Baffour, M Spallek and M Haynes.
-* "Polling bias and undecided voter allocations: US Presidential elections, 2004 - 2016" (2019). Journal of the Royal Statistical Society (Series A) [https://dx.doi.org/10.1111/rssa.12414](https://dx.doi.org/10.1111/rssa.12414) with T Ballard and B Baffour.
-* "Fitting monotone polynomials in mixed effects models" (2019). Statistics and Computing [https://doi.org/10.1007/s11222-017-9797-8](https://doi.org/10.1007/s11222-017-9797-8) with BA Turlach and K Murray.
+* [Does Anyone Suffer From Teenage Motherhood? Mental Health Effects of Teen Motherhood in Great Britain Are Small and Homogeneous](https://doi.org/10.1215/00703370-10788364) with M O'Flaherty and S Kalucza (2023). _Demography_.
+* [Accelerating sequential Monte Carlo with surrogate likelihoods](https://doi.org/10.1007/s11222-021-10036-4) with A Lee and C Drovandi (2021). _Statistics and Computing_.
+* [Polling bias and undecided voter allocations: US Presidential elections, 2004 - 2016](https://dx.doi.org/10.1111/rssa.12414) with T Ballard and B Baffour (2019). _Journal of the Royal Statistical Society (Series A)_. 
 
-See [Google Scholar](https://scholar.google.com/citations?user=M4N18PMAAAAJ&hl=en) for more details.
+See [Google Scholar](https://scholar.google.com/citations?user=M4N18PMAAAAJ&hl=en) for more.
