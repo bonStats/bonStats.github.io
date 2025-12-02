@@ -22,7 +22,7 @@ In Paris, I organised the [Mostly Monte Carlo Seminar Series](https://bonstats.g
 Some current projects
 =====
 * A Bayesian decision-theoretic framework for statistical data privacy
-* Knots and variance ordering of sequential Monte Carlo algorithms [arXiv](https://arxiv.org/abs/2510.01901)
+* Knots and variance ordering of sequential Monte Carlo algorithms [arXiv](https://arxiv.org/abs/2510.01901) [slides](https://bonstats.github.io/knots/)
 * Calibrating surrogates models for intractable Bayesian posteriors [arXiv](https://arxiv.org/abs/2211.05357)
 
 See my full list of [arXiv preprints](https://arxiv.org/a/bon_j_1.html) for more.
