@@ -29,7 +29,7 @@ See my full list of [arXiv preprints](https://arxiv.org/a/bon_j_1.html) for more
 
 Selected journal articles
 =====
-* [Bayesian score calibration for approximate models](https://arxiv.org/abs/2211.05357) with D Warne, D Nott, and C Drovandi (2026). _Journal of Machine Learning Research_.
+* [Bayesian score calibration for approximate models](https://jmlr.org/papers/v26/24-1179.html) with D Warne, D Nott, and C Drovandi (2026). _Journal of Machine Learning Research_.
 * [Does Anyone Suffer From Teenage Motherhood? Mental Health Effects of Teen Motherhood in Great Britain Are Small and Homogeneous](https://doi.org/10.1215/00703370-10788364) with M O'Flaherty and S Kalucza (2023). _Demography_.
 * [Accelerating sequential Monte Carlo with surrogate likelihoods](https://doi.org/10.1007/s11222-021-10036-4) with A Lee and C Drovandi (2021). _Statistics and Computing_.
 * [Polling bias and undecided voter allocations: US Presidential elections, 2004 - 2016](https://dx.doi.org/10.1111/rssa.12414) with T Ballard and B Baffour (2019). _Journal of the Royal Statistical Society (Series A)_. 
