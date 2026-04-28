@@ -21,7 +21,7 @@ In Paris, I organised the [Mostly Monte Carlo Seminar Series](https://bonstats.g
 
 Current projects
 =====
-* A game-theoretic framework for statistical data privacy
+* A game-theoretic framework for statistical data privacy "Persuasive Privacy" [arXiv](https://arxiv.org/abs/2601.22945) [slides](https://bonstats.github.io/privacy26/#/title-slide)
 * Knots and variance ordering of sequential Monte Carlo algorithms [arXiv](https://arxiv.org/abs/2510.01901) [slides](https://bonstats.github.io/knots/)
 * Variance reduction for simulation--based inference
 
