@@ -24,8 +24,8 @@ See my full list of [arXiv preprints](https://arxiv.org/a/bon_j_1.html) for more
 
 Selected articles
 =====
-* [Persuasive Privacy](https://doi.org/10.48550/arXiv.2601.22945) with J Bailie, J Rousseau, CP Robert _ICML 2026_ (see [project page](https://bonstats.github.io/persuasive-privacy/))
-* [Bayesian score calibration for approximate models](https://arxiv.org/abs/2211.05357) with D Warne, D Nott, and C Drovandi (2026). _Journal of Machine Learning Research_.
+* [Persuasive Privacy](https://doi.org/10.48550/arXiv.2601.22945) with J Bailie, J Rousseau, and CP Robert (2026). _43rd International Conference on Machine Learning_ (see [project page](https://bonstats.github.io/persuasive-privacy/)).
+* [Bayesian score calibration for approximate models](https://arxiv.org/abs/2211.05357) with D Warne, D Nott, and C Drovandi (2025). _Journal of Machine Learning Research_.
 * [Does Anyone Suffer From Teenage Motherhood? Mental Health Effects of Teen Motherhood in Great Britain Are Small and Homogeneous](https://doi.org/10.1215/00703370-10788364) with M O'Flaherty and S Kalucza (2023). _Demography_.
 * [Accelerating sequential Monte Carlo with surrogate likelihoods](https://doi.org/10.1007/s11222-021-10036-4) with A Lee and C Drovandi (2021). _Statistics and Computing_.
 * [Polling bias and undecided voter allocations: US Presidential elections, 2004 - 2016](https://dx.doi.org/10.1111/rssa.12414) with T Ballard and B Baffour (2019). _Journal of the Royal Statistical Society (Series A)_. 
@@ -40,7 +40,7 @@ In November 2025, I organised the [Adelaide Data Privacy Workshop](https://bonst
 
 From 2023--2025 I was a postdoc with Prof Christian Robert at [CEREMADE](https://www.ceremade.dauphine.fr/en.html), Université Paris Dauphine--PSL. Here I organised the [Mostly Monte Carlo Seminar Series](https://bonstats.github.io/mostlymontecarlo/).
 
-Prior to Paris, I was postdoc and PhD student with Prof Chris Drovandi in the [School of Mathematical Sciences](https://www.qut.edu.au/about/faculty-of-science/school-of-mathematical-sciences), Queensland University of Technology (QUT), and part of the [Centre for Data Science](https://research.qut.edu.au/qutcds/) at QUT. During my PhD I was also co-supervised by Prof Anthony Lee (University of Bristol).
+Prior to Paris, I was postdoc and PhD student with Prof Chris Drovandi in the [School of Mathematical Sciences](https://www.qut.edu.au/about/faculty-of-science/school-of-mathematical-sciences), Queensland University of Technology (QUT), and part of the [Centre for Data Science](https://research.qut.edu.au/qutcds/) at QUT. During my PhD I was co-supervised by Prof Anthony Lee (University of Bristol).
 
 In 2023, I was chair of the [SMC Down Under](https://research.qut.edu.au/qutcds/events/smc-down-under-23/) organising committee.
 
